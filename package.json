@@ -2,6 +2,7 @@
   "name": "movies-series",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://SouadHenane.github.io/movies-tracker",
   "dependencies": {
     "@material-ui/core": "^4.9.13",
     "@material-ui/icons": "^4.9.1",
@@ -23,6 +24,7 @@
     "thunk": "0.0.1"
   },
   "scripts": {
+    "deploy": "npm run build&&gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
