@@ -1,3 +1,9 @@
+![movies1](https://user-images.githubusercontent.com/57634566/85359856-babc4f80-b517-11ea-8be2-0ea58116e2da.JPG)
+
+![movies2](https://user-images.githubusercontent.com/57634566/85359963-18509c00-b518-11ea-9fcb-1485e329538c.JPG)
+
+![movies3](https://user-images.githubusercontent.com/57634566/85359981-2999a880-b518-11ea-887c-c0faf478418e.JPG)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
